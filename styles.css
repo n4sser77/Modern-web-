@@ -12,4 +12,8 @@ body {
     text-align: center;
 }
 
+h1, .navbar-brand {
+    font-family: 'Nevutica', sans-serif; /* Use 'Nevutica' font for .navbar-brand */
+}
+
 /* Add more custom styles as needed */
